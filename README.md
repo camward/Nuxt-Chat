@@ -1,22 +1,9 @@
-# nuxt-chat
+# Чат
 
-> My stunning Nuxt.js project
+Склонировать проект: `https://github.com/camward/Nuxt-Chat.git`
 
-## Build Setup
+Перейти в папку проекта и установить зависимости: `npm i` или `yarn`
 
-``` bash
-# install dependencies
-$ npm install
+Запустить проект командой `npm run dev` и перейти по адресу `http://localhost:3000/`
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+Данные нигде не хранятся. После выхода переписку не восстановить.
